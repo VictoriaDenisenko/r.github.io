@@ -1,0 +1,32 @@
+body{
+    font-family: 'Montserrat', graphik,sans-serif;
+    color: white;
+}
+h1{
+    font-size: 2.5cm;
+    
+}
+h2{
+    font-size: 1cm;
+
+}
+h3{
+    font-family: t26-carbon,monospace;
+}
+p{
+ font-size: 0.7cm;
+ color: black;
+ font-weight: bold;
+ background-color: #FFEBD9;
+ padding:0.5cm;
+
+}
+body {
+    
+    padding: 80px 100px 100px 100px;
+
+}
+.logo{
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}

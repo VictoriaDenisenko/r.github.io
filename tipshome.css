@@ -1,0 +1,59 @@
+body{
+  font-family: 'Montserrat';
+  background-color: #FFEBD9;
+
+
+}
+h1{
+    font-size: 2cm;
+
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: none; /* Enable scrolling if the sidenav has too much content */
+  }
+<style>
+body {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+}
+</style>
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  font-size: 0.6cm;
+  font-weight: bold;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color:#235952 ;
+  color: white;
+}
